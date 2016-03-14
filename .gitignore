@@ -2,3 +2,4 @@ Debug/
 tinyxml2lib/
 *.filters
 *.vcxproj
+*.sql
